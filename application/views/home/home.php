@@ -50,7 +50,7 @@
                <div class="col-md-8">
                   <div class="text-bg">
                      <h1> <span class="blodark"> Si Kutu Buku </span> <br></h1>
-                     <h1>Halo Zydan Gaming Disini</h1>
+                     <h1>Halo Harsel Gaming halo</h1>
                      <p>Tempat dimana anda membeli buku </p>
                      <a class="read_more" href="<?= base_url(); ?>pembelian_form">Beli Buku</a>
                   </div>
